@@ -1,11 +1,13 @@
 {
   "name": "Bora",
   "version": "1.0.0",
+  "homepage": "http://bora.fswebdev.info",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^1.4.3",
     "d3-ease": "^1.0.3",
     "firebase": "^5.0.4",
+    "gh-pages": "^2.0.1",
     "moment": "^2.24.0",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
@@ -16,6 +18,7 @@
     "react-scripts": "1.1.4"
   },
   "scripts": {
+    "deploy": "npm run build&&gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
