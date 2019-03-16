@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { firebase } from '../../firebase';
+import { withRouter } from 'react-router';
 
 import FormField from '../ui/formFields';
 import { validate } from '../ui/misc';
@@ -75,6 +76,7 @@ class SignIn extends Component {
         .auth()
         .signInWithEmailAndPassword(dataToSubmit.email, dataToSubmit.password)
         .then(() => {
+          debugger;
           this.props.history.push('/admin_races');
         })
         .catch(error => {
@@ -104,7 +106,7 @@ class SignIn extends Component {
               formdata={this.state.formdata.password}
               change={element => this.updateForm(element)}
             />
-            {this.state.formError ? <div className="error_label">Something is wrong, try again.</div> : null}
+            {this.state.formError ? <div className="error_label">The provided credentials are not valid.</div> : null}
             <button onClick={event => this.submitForm(event)}>Log in</button>
           </form>
         </div>
@@ -113,4 +115,4 @@ class SignIn extends Component {
   }
 }
 
-export default SignIn;
+export default withRouter(SignIn);
