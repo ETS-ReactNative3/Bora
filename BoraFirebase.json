@@ -1,0 +1,295 @@
+{
+  "promotions" : {
+    "-LElLVq1OW7HqJ9VknkW" : {
+      "email" : "francis@gmail.com"
+    },
+    "-LElUbwMIAH0EXXI1aBv" : {
+      "email" : "fvdf@gmail.com"
+    }
+  },
+  "races" : {
+    "-LEmaPHHgI3SgqTKu9u6" : {
+      "bestBoraResult" : "1",
+      "bestBoraRider" : "Peter Sagan",
+      "date" : "2018-04-08",
+      "location" : "France",
+      "raceName" : "Paris Roubaix"
+    },
+    "-La165gdPeRKC-M5E9lh" : {
+      "bestBoraResult" : "10",
+      "bestBoraRider" : "Marcus Burghardt",
+      "date" : "2018-02-24",
+      "location" : "Belgium",
+      "raceName" : "Het Nieuwsblad"
+    },
+    "-La17jYsgWq2idxkIplF" : {
+      "bestBoraResult" : "8",
+      "bestBoraRider" : "Peter Sagan",
+      "date" : "2018-03-03",
+      "location" : "Italy",
+      "raceName" : "Strade Binche"
+    },
+    "-La1T9Ih5eReCE36QhXh" : {
+      "bestBoraResult" : "7",
+      "bestBoraRider" : "Patrick Konrad",
+      "date" : "2018-03-04",
+      "location" : "France",
+      "raceName" : "Paris Nice"
+    },
+    "-La1TNiDsM2BVlChFWZB" : {
+      "bestBoraResult" : "7",
+      "bestBoraRider" : "Davide Formolo",
+      "date" : "2018-03-07",
+      "location" : "Italy",
+      "raceName" : "Tirreno Adriatico"
+    },
+    "-La1TY5Ylfm_cSTZOtC7" : {
+      "bestBoraResult" : "6",
+      "bestBoraRider" : "Peter Sagan",
+      "date" : "2018-03-17",
+      "location" : "Italy",
+      "raceName" : "Milan San Remo"
+    },
+    "-La1TfUmaUEfkKLdLyA5" : {
+      "bestBoraResult" : "1",
+      "bestBoraRider" : "Peter Sagan",
+      "date" : "2018-03-25",
+      "location" : "Belgium",
+      "raceName" : "Gent Wevelgem"
+    },
+    "-La1TnNLHi44W8kjxkDI" : {
+      "bestBoraResult" : "6",
+      "bestBoraRider" : "Peter Sagan",
+      "date" : "2018-04-01",
+      "location" : "Belgium",
+      "raceName" : "Tour of Flanders"
+    },
+    "-La1TxWIjRMklI0lbDOq" : {
+      "bestBoraResult" : "4",
+      "bestBoraRider" : "Peter Sagan",
+      "date" : "2018-04-15",
+      "location" : "Netherlands",
+      "raceName" : "Amstel Gold Race"
+    },
+    "-La1U6kP3s74Re-q1bnG" : {
+      "bestBoraResult" : "10",
+      "bestBoraRider" : "Patrick Konrad",
+      "date" : "2018-04-18",
+      "location" : "Belgium",
+      "raceName" : "La Fleche Wallonne"
+    },
+    "-La1UKt1_MB7gC9sBeL-" : {
+      "bestBoraResult" : "7",
+      "bestBoraRider" : "Davide Formolo",
+      "date" : "2018-04-22",
+      "location" : "Belgium",
+      "raceName" : "Liege–Bastogne"
+    },
+    "-La1URpSuKv5HQuXQRTy" : {
+      "bestBoraResult" : "7",
+      "bestBoraRider" : "Patrick Konrad",
+      "date" : "2018-05-04",
+      "location" : "Italy",
+      "raceName" : "Giro d'Italia"
+    },
+    "-La1UdCKYiEzguCwuyMO" : {
+      "bestBoraResult" : "19",
+      "bestBoraRider" : "Rafal Majka",
+      "date" : "2018-07-07",
+      "location" : "France",
+      "raceName" : "Tour de France"
+    },
+    "-La1Um3H7bY8fcdmDFkz" : {
+      "bestBoraResult" : "12",
+      "bestBoraRider" : "Emanuel Buchmann",
+      "date" : "2018-08-25",
+      "location" : "Spain",
+      "raceName" : "Vuelta a Espana"
+    },
+    "-La1Uurqn2aIgtm1CZ4B" : {
+      "bestBoraResult" : "1",
+      "bestBoraRider" : "Pascal Ackermann",
+      "date" : "2018-07-29",
+      "location" : "UK",
+      "raceName" : "RideLondon"
+    }
+  },
+  "rankings" : {
+    "-LEu6H7cllCT8Xv3CFil" : {
+      "points" : "13425",
+      "ranking" : "1",
+      "team" : "Quick-Step Floors"
+    },
+    "-LEu6H7gyI75bVJEeec_" : {
+      "points" : "10213",
+      "ranking" : "2",
+      "team" : "Team Sky"
+    },
+    "-LEu6H7hLA7q73L5P0vh" : {
+      "points" : "9201",
+      "ranking" : "3",
+      "team" : "Bora–Hansgrohe"
+    },
+    "-LEu6H7il1xQFg7j2Igp" : {
+      "points" : "8780",
+      "ranking" : "4",
+      "team" : "BMC Racing Team"
+    },
+    "-LEu6H7il1xQFg7j2Igq" : {
+      "points" : "8660",
+      "ranking" : "5",
+      "team" : "Mitchelton–Scott"
+    },
+    "-LEu6H7jiWyn4EIbe9ff" : {
+      "points" : "7869",
+      "ranking" : "6",
+      "team" : "Astana"
+    },
+    "-LEu6H7jiWyn4EIbe9fg" : {
+      "points" : "7409",
+      "ranking" : "7",
+      "team" : "Bahrain–Merida"
+    },
+    "-LEu6H7jiWyn4EIbe9fh" : {
+      "points" : "7351",
+      "ranking" : "8",
+      "team" : "Movistar Team"
+    },
+    "-LEu6H7jiWyn4EIbe9fi" : {
+      "points" : "7266",
+      "ranking" : "9",
+      "team" : "Team Sunweb"
+    },
+    "-LEu6H7k-I69gFo2pPJO" : {
+      "points" : "7059",
+      "ranking" : "10",
+      "team" : "LottoNL–Jumbo"
+    },
+    "-LEu6H7k-I69gFo2pPJP" : {
+      "points" : "6397",
+      "ranking" : "11",
+      "team" : "AG2R La Mondiale"
+    },
+    "-LEu6H7k-I69gFo2pPJQ" : {
+      "points" : "5495",
+      "ranking" : "12",
+      "team" : "UAE Team Emirates"
+    },
+    "-LEu6H7k-I69gFo2pPJR" : {
+      "points" : "5428",
+      "ranking" : "13",
+      "team" : "Trek–Segafredo"
+    },
+    "-LEu6H7lfvbxKHHKKMdI" : {
+      "points" : "5102",
+      "ranking" : "14",
+      "team" : "Groupama–FDJ"
+    },
+    "-LEu6H7lfvbxKHHKKMdJ" : {
+      "points" : "4700",
+      "ranking" : "15",
+      "team" : "Lotto–Soudal"
+    },
+    "-LEu6H7lfvbxKHHKKMdK" : {
+      "points" : "7373",
+      "ranking" : "16",
+      "team" : "EF Education First"
+    },
+    "-LEu6H7m4062dnfBAErx" : {
+      "points" : "2757",
+      "ranking" : "17",
+      "team" : "Team Katusha–Alpecin"
+    },
+    "-LEu6H7m4062dnfBAEry" : {
+      "points" : "2017",
+      "ranking" : "18",
+      "team" : "Team Dimension Data"
+    }
+  },
+  "riders" : {
+    "-LEvJ6w8YuUXtU6K3G2I" : {
+      "firstname" : "Peter",
+      "image" : "sagan.jpg",
+      "lastname" : "Sagan",
+      "ranking" : "12",
+      "speciality" : "Allrounder"
+    },
+    "-L_yC95dWZhngJUzr5lb" : {
+      "firstname" : "Sam",
+      "image" : "bennet.jpg",
+      "lastname" : "Bennet",
+      "ranking" : "55",
+      "speciality" : "Sprinter"
+    },
+    "-La130pwdOLXuscmb0sm" : {
+      "firstname" : "Emanuel",
+      "image" : "b5bc4be8-ba70-4969-a347-2f6ff2ca5d1e.jpg",
+      "lastname" : "Buchmann",
+      "ranking" : "49",
+      "speciality" : "Climber"
+    },
+    "-La139zFvR1NqIMfs1g1" : {
+      "firstname" : "Marcus",
+      "image" : "98279308-b8a5-4a47-a890-ff49f1c7e405.jpg",
+      "lastname" : "Burghardt",
+      "ranking" : "151",
+      "speciality" : "Allrounder"
+    },
+    "-La13IaqYjY3RGebjSWP" : {
+      "firstname" : "Davide",
+      "image" : "2d27d9a3-a9ae-4f5b-bdf8-6eb4b73f82ea.jpg",
+      "lastname" : "Formolo",
+      "ranking" : "52",
+      "speciality" : "Climber"
+    },
+    "-La13RinNFgC9k0O_hzo" : {
+      "firstname" : "Felix",
+      "image" : "fdff9122-a9ea-4de4-b4af-01637e957d5e.jpg",
+      "lastname" : "Großschartner",
+      "ranking" : "91",
+      "speciality" : "Climber"
+    },
+    "-La13ZAEiegNRxcpjQp9" : {
+      "firstname" : "Patrick",
+      "image" : "9a1ad890-ae97-4742-8d61-8f057d0d2732.jpg",
+      "lastname" : "Konrad",
+      "ranking" : "41",
+      "speciality" : "Climber"
+    },
+    "-La13fV41fyKarr7mXaQ" : {
+      "firstname" : "Rafal",
+      "image" : "8fa10a81-36b0-4647-a2da-6fe6170b0be7.jpg",
+      "lastname" : "Majka",
+      "ranking" : "61",
+      "speciality" : "Climber"
+    },
+    "-La13nSOjHllYXp_mhIY" : {
+      "firstname" : "Gregor",
+      "image" : "9042b8bf-f9fe-4eae-9c07-daef03e34b4a.jpg",
+      "lastname" : "Mühlberger",
+      "ranking" : "123",
+      "speciality" : "Climber"
+    },
+    "-La13s1Ir1Lt-i5VvunQ" : {
+      "firstname" : "Daniel",
+      "image" : "abf9e1d1-dd70-427c-907a-91baee0882c0.jpg",
+      "lastname" : "Oss",
+      "ranking" : "176",
+      "speciality" : "Allrounder"
+    },
+    "-La14-imTZThA9V7F1QH" : {
+      "firstname" : "Lukas",
+      "image" : "a6a1f354-7eb5-422b-bc29-cdbe33cd7e66.jpg",
+      "lastname" : "Pöstlberger",
+      "ranking" : "355",
+      "speciality" : "Allrounder"
+    },
+    "-La14BC7ZEILfDPOwz-F" : {
+      "firstname" : "Pascal",
+      "image" : "3a7e4982-9b4e-4e88-97f9-38f3a9016ac5.jpg",
+      "lastname" : "Ackermann",
+      "ranking" : "63",
+      "speciality" : "Sprinter"
+    }
+  }
+}
